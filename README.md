@@ -5,5 +5,5 @@
 
 <br>
 
-<p align="center"> <img src="https://github.com/SKINOX21/ArcadeOS-for-Trimui-Smart-Pro/blob/Pics/arcadeos.png"/> </p>
+<p align="center"> <img src="https://github.com/SKINOX21/NS_Online_For_TSP/blob/Pictures/Presentation.png"/> </p>
 <br>
